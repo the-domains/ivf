@@ -1,0 +1,14 @@
+layout_spectrum: 0.2285787
+typography_spectrum: 0.2199197
+color:
+  saturation: 0.6587129
+  lightness: 0.8516629
+  brandStrength: 0.8662618
+  rhythmicContrast: 0.9526835
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: IVF
